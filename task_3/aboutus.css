@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: none;
+    
+}
+
+body{
+background-color:black;
+background-attachment:scroll;
+
+}
+.container{
+    background-color:black;
+    width: 900px;
+    height: 115px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+.picture{
+    
+    display: inline;
+    margin: auto;
+}
+
+div img{
+    
+    float:left;
+    margin-right: auto;
+    
+}
+
+.icon img{
+    margin-top: 30px;
+    margin-left: -3px;
+    width: 30px;
+    height: 30px;
+}
+hr{
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    margin-top:1px;
+    margin-bottom:1px;
+    color:red;
+   
+}
+.navbar{
+   background-color:black;
+   height: 25px;
+   padding-top: 10px;
+   width: 900px;
+   margin-top: 0;
+   margin-bottom: 5px;
+   margin-left: auto;
+   margin-right: auto; 
+   
+}
+.navbar ul li{
+    padding-top: 2px;
+    list-style-type: none;
+    display: inline;
+    margin-left:5px;
+    color: grey;
+    padding: -1px;
+
+    
+}
+section{
+    background-color: gray;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    height: 1100px; 
+    width: 900px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+section img{
+    width: 880px;
+    padding:10px;
+    
+}
+section p{
+    padding:10px;
+    margin: 10px 10px;
+}
+section div{
+    margin-left: 100px;
+    
+    clear:left;
+    display: block;
+}
+section div img{
+    display: block;
+    width: 250px;
+    border: solid black thin;
+    padding: 0;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+.pargraph2{
+    
+    padding:10px;
+    margin: 10px 10px;
+}
+section hr{
+    margin-left:auto ;
+    margin-right:auto ;
+    width: 800px;
+    color: #000;
+}
+footer{
+    margin:10px ;
+    text-align: center;
+}
